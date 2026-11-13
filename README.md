@@ -1,6 +1,6 @@
 # Rubens Vieira
 
-> > Bioinformatics & Data Analysis · Software Engineering & Systems Architecture
+> Bioinformatics & Data Analysis · Software Engineering & Systems Architecture
 
 I work where software engineering meets genomics and computational biology. After years of designing and shipping production systems — domain modelling, clean architecture, relational databases — I now apply that discipline to biological data: pipelines that are reproducible, tested and documented, so the analysis can be trusted and rerun.
 
