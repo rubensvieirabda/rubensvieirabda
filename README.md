@@ -36,4 +36,4 @@ Python · R · SQL · Scanpy · pandas · Jupyter — C# / .NET · TypeScript ·
 
 ---
 
-[YouTube](https://www.youtube.com/@rubensvieiradba) · [LinkedIn](https://www.linkedin.com/in/rubensvieirabda/) · [Instagram](https://www.instagram.com/rubensvieirabda/) · [TikTok](https://www.tiktok.com/@rubensvieirabda) · [ti.rubens.lyra@gmail.com](mailto:ti.rubens.lyra@gmail.com)
+[YouTube](https://www.youtube.com/@rubensvieirabda) · [LinkedIn](https://www.linkedin.com/in/rubensvieirabda/) · [Instagram](https://www.instagram.com/rubensvieirabda/) · [TikTok](https://www.tiktok.com/@rubensvieirabda) · [ti.rubens.lyra@gmail.com](mailto:ti.rubens.lyra@gmail.com)
